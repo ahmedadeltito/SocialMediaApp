@@ -1,3 +1,12 @@
+@file:Suppress("UnstableApiUsage")
+
+include(":ui-home")
+include(":feature-comment")
+include(":feature-post")
+include(":datasource")
+include(":core")
+
+
 pluginManagement {
     repositories {
         google()
