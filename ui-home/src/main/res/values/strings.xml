@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="post_title">Product Title : %1$s</string>
+    <string name="post_body">Product Body : %1$s</string>
+
+    <string name="post_list">Post List</string>
+    <string name="post_details">Post Details</string>
+
+    <string name="comment_list">Comments List:</string>
+    <string name="comment_name">Comment Name: %1$s</string>
+    <string name="comment_email">Comment Email: %1$s</string>
+    <string name="comment_body">Comment Body: %1$s</string>
+
+    <string name="no_comment_list">There is no comment list \nfor this post</string>
+</resources>
