@@ -11,6 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/datasource" />
+            <option value="$PROJECT_DIR$/feature-comment" />
+            <option value="$PROJECT_DIR$/feature-post" />
+            <option value="$PROJECT_DIR$/ui-home" />
           </set>
         </option>
       </GradleProjectSettings>
